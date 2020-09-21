@@ -3,9 +3,9 @@
 
 - 👨‍🏫 Yazılım üzerine Youtube kanalım [Codeigniter Hocası](https://www.youtube.com/c/CodeigniterHocasi)
 
-- 👩‍💻 E-ticaret markam [codemonzy](codemonzy.com)
+- 👩‍💻 E-ticaret markam [codemonzy](https://codemonzy.com)
 
-- 📝 Blog Yazılarım [furkangurel.com](furkangurel.com)
+- 📝 Blog Yazılarım [furkangurel.com](https://furkangurel.com)
 
 - 📫 İletişim için **itsme@furkangurel.com**
 
