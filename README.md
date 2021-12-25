@@ -1,7 +1,5 @@
 <h1 align="center">Merhaba 👋 Ben Furkan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-(https://komarev.com/ghpvc/?username=furkangurel)
-
 
 - 👨‍🏫 Yazılım üzerine Youtube kanalım [Codeigniter Hocası](https://www.youtube.com/c/CodeigniterHocasi)
 
